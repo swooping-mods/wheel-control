@@ -1,0 +1,21 @@
+{
+  "id": "wheel-control",
+  "kind": "native",
+  "version": "0.2.0",
+  "display_name": "MOZA Vehicle Controls",
+  "gameplay": true,
+  "feature_dependencies": [
+    "vehicle-control-framework"
+  ],
+  "play_help": [
+    "Run the calibrated wheel.py helper for your R9 + KS Pro and Simsonn Pro pedals.",
+    "Board a vehicle normally. The wheel controls steering; pedals control forward and reverse/brake."
+  ],
+  "requires_apis": [
+    {
+      "api": "vehicle-control-framework.controls",
+      "abi": 1,
+      "min_size": 72
+    }
+  ]
+}

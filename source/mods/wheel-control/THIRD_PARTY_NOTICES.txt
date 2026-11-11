@@ -1,0 +1,2 @@
+MOZA and SIMSONN are hardware identifiers.
+Manufacturer diagrams are linked by the source, not distributed.
