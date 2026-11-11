@@ -1,5 +1,7 @@
 # MOZA Vehicle Controls
 
+<img src="media/icon.png" alt="MOZA Vehicle Controls icon" width="128" height="128">
+
 R9 / KS Pro steering and separate Simsonn Pro pedals for vehicles.
 
 ## Install
