@@ -1,2 +1,25 @@
-MOZA and SIMSONN are hardware identifiers.
-Manufacturer diagrams are linked by the source, not distributed.
+Windows portable bundle dependencies
+
+CPython 3.12.10, Copyright Python Software Foundation and contributors.
+Unmodified Windows embeddable distribution, apart from python312._pth search paths.
+License: runtime/LICENSE.txt.
+Source: https://www.python.org/ftp/python/3.12.10/Python-3.12.10.tar.xz
+
+Qt / PySide6 Essentials / Shiboken6 6.8.3, Copyright The Qt Company Ltd.
+and contributors. Unmodified dynamically loaded libraries; no Qt static linking.
+The used Qt Core, Gui, Widgets and Qt for Python libraries are available under
+LGPLv3, with upstream components retaining their applicable notices.
+LGPLv3, GPLv3 and upstream exception texts are in licenses/.
+Original wheel metadata and notices remain in runtime/Lib/site-packages/.
+You may replace these shared libraries with compatible modified versions;
+nothing in this bundle restricts debugging those modifications or reverse
+engineering for that purpose.
+Corresponding upstream source:
+https://download.qt.io/archive/qt/6.8/6.8.3/single/qt-everywhere-src-6.8.3.tar.xz
+https://download.qt.io/official_releases/QtForPython/pyside6/PySide6-6.8.3-src/
+Component licensing: https://doc.qt.io/qt-6.8/licenses-used-in-qt.html
+Qt for Python licensing: https://doc.qt.io/qtforpython-6/licenses.html
+
+DEPENDENCIES.json records the downloaded archives and their SHA-256 hashes.
+This local bundle adds no license to the original MoonLab project or the game.
+No game binary, save or manufacturer driver is included.

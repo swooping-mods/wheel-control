@@ -1,2 +1,3 @@
-Small Loop Works: mod and shared adapter code.
-Moon Sweepers: DragDrop Games.
+Original MoonLab implementation using the project's native mod boundary and Python standard library.
+MOZA and SIMSONN are hardware identifiers, not affiliations.
+Manufacturer button diagrams are linked for reference, not redistributed in this package.
